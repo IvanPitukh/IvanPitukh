@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Hi, I'm excited to step into the world of freelancing on Upwork as a Full Stack Developer. My mission is to provide you with an exceptional development journey that goes beyond your expectations.
 
-"I LIKE WORKING WITH IVAN. HE WAS SUPPORTIVE AND HELPFUL"
+"Ivan is an amazing full-stack freelancer! He's really good at fixing problems and always has cool ideas to make stuff awesome. Whether it's changing the code or making things look better for users, he's on it. We talked easily, and Ivan was cool with feedback, making our teamwork fun. If you need a freelancer who's not just good but also has great ideas, pick Ivan. Big thanks, Ivan, you're awesome! 🚀" ARVYDAS T - (DIGITAL MARKETING / CRO)
 
 ⚡**Frontend Mastery:** With a strong emphasis on aesthetics and user experience, I specialize in crafting captivating front-end interfaces. Proficient in JavaScript frameworks like Vue.js, React, and Angular, I guarantee a visually stunning, user-friendly front end. HTML, CSS, and Bootstrap are my trusty companions in achieving this.
 
